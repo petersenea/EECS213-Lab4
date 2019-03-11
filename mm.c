@@ -24,7 +24,7 @@
  ********************************************************/
 team_t team = {
 	/* Team Name */
-	"GreenIsNotACreativeColor"
+	"GreenIsNotACreativeColor",
     /* First member's full name */
     "Elizabeth Petersen",
     /* First member's NetID */
@@ -34,6 +34,7 @@ team_t team = {
     /* Second member's NetID */
     "jkw0545"
 };
+
 
 /*Defining heap_listp*/
 static char *heap_listp;
