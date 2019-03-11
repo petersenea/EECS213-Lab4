@@ -30,9 +30,9 @@ team_t team = {
     /* First member's NetID */
     "eap8040",
     /* Second member's full name (leave blank if none) */
-    "Elizabeth Petersen",
+    "Jacob Wat",
     /* Second member's NetID */
-    "eap8040"
+    "jkw0545"
 };
 
 /*Defining heap_listp*/
