@@ -23,14 +23,16 @@
  * provide your team information in the following struct.
  ********************************************************/
 team_t team = {
+	/* Team Name */
+	"GreenIsNotACreativeColor"
     /* First member's full name */
-    "Olivia Jurgiel",
+    "Elizabeth Petersen",
     /* First member's NetID */
-    "ogj0499",
+    "eap8040",
     /* Second member's full name (leave blank if none) */
-    "Ben Girard",
+    "Elizabeth Petersen",
     /* Second member's NetID */
-    "bmg7393"
+    "eap8040"
 };
 
 /*Defining heap_listp*/
