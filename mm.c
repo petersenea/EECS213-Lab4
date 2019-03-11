@@ -188,7 +188,7 @@ void *mm_malloc(size_t size)
 /*
  * mm_free - Freeing a block does nothing.
  */
-void mm_free(void *ptr)
+void mm_free(void *bp)
 {
   size_t size = GET_SIZE(HDRP(bp));
 
